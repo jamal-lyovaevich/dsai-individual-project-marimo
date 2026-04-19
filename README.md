@@ -1,4 +1,6 @@
-# dsai-individual-project-marimo
+# Author
+Jamal Mstoyan
+BSc Accounting and Finance
 
 # Retail Profitability Analysis (Marimo Portfolio)
 
