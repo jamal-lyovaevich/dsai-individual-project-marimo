@@ -1,4 +1,7 @@
-# /// script
+# Retail Profitability Analysis Portfolio
+# Individual Project – Data Science / AI Tools
+# Author: Jamal Mstoyan# 
+/// script
 # requires-python = ">=3.13"
 # dependencies = [
 #     "marimo>=0.23.1",
